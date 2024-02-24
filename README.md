@@ -1,5 +1,4 @@
 # _Covid19 hospital management_
-![image](https://github.com/UmaimaKhan01/COVID19-hospital-management-system/assets/122020423/59372b44-61a0-4f0f-9d11-8011767c26ce)
 
 
 <!-- about us & view patient -->
@@ -19,4 +18,12 @@
 - Setup virtual environment
 - Exceute `pip install -r requirements.txt`.
 - run `python manage.py runserver`.
-- Go to the address shown in your cmd and copy it in your web browser. 
+- Go to the address shown in your cmd and copy it in your web browser.
+-
+
+### Project final output pictures
+
+![image](https://github.com/UmaimaKhan01/COVID19-hospital-management-system/assets/122020423/7768576f-1821-471f-b95b-0cf6cdda9cef)
+![image](https://github.com/UmaimaKhan01/COVID19-hospital-management-system/assets/122020423/b34bff87-299a-4058-9f3b-ce0374056730)
+![image](https://github.com/UmaimaKhan01/COVID19-hospital-management-system/assets/122020423/50d135ed-75d0-41e9-aba9-2b5687c66158)
+
