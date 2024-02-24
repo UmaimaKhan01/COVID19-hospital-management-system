@@ -18,4 +18,4 @@
 - Setup virtual environment
 - Exceute `pip install -r requirements.txt`.
 - run `python manage.py runserver`.
-- Go to `127.0.0.1::8000` in your web browser.
+- Go to the address shown in your cmd and copy it in your web browser. 
